@@ -72,4 +72,4 @@ O projeto foi desenvolvido como parte de um desafio. Se você quiser contribuir 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
- Licença vou chorar um pouco.
+
