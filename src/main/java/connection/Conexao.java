@@ -8,7 +8,7 @@ public class Conexao {
 
     public static Connection getConnection() {
         try {
-            Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/totemautotendimento",
+            Connection connection = DriverManager.getConnection("jdbc:postgresql://localhost:5432/totematendimento",
                     "postgres", "admim");
             return connection;
         } catch (SQLException e) {
